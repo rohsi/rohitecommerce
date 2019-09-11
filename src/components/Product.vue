@@ -6,7 +6,7 @@
             <h5 class="card-title">{{product.id}}</h5>
             <p>{{product.name}}</p>
             <p class="card-text">{{product.price}}</p>
-            <p>{{product.type}}</p>
+            <p>{{product.description}}</p>
             <a href="#" class="btn btn-primary">Add to cart</a>
         </div>
     </div>
