@@ -3,8 +3,10 @@
     <div class="card" style="width: 18rem;">
 
         <div class="card-body">
-            <h5 class="card-title">{{product.title}}</h5>
+            <h5 class="card-title">{{product.id}}</h5>
+            <p>{{product.name}}</p>
             <p class="card-text">{{product.price}}</p>
+            <p>{{product.type}}</p>
             <a href="#" class="btn btn-primary">Add to cart</a>
         </div>
     </div>
