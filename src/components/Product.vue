@@ -1,3 +1,5 @@
+
+
 <template>
     <div>
     <div class="card" style="width: 18rem;">
@@ -7,7 +9,9 @@
             <p>{{product.name}}</p>
             <p class="card-text">{{product.price}}</p>
             <p>{{product.description}}</p>
-            <a href="#" class="btn btn-primary">Add to cart</a>
+
+            <a href="#" class="btn btn-primary">Addtocart</a>
+            
         </div>
     </div>
     </div>

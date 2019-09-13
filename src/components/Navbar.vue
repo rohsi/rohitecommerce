@@ -5,7 +5,9 @@
       <a class="navbar-brand" href="#"><router-link to='/allproduct'> AllProducts</router-link></a>
 
       <a class="navbar-brand" href="#"><router-link to='/mobile'> Mobile</router-link></a>
-      <button type="button" class="btn btn-primary btn-sm">Small button</button>
+        <a class="navbar-brand" href="#"><router-link to='/laptop'> Laptop</router-link></a>
+
+        <button type="button" class="btn btn-primary btn-sm">Addtocart</button>
     </nav>
 
 
@@ -23,3 +25,6 @@ export default {
 <style scoped>
 
 </style>
+
+
+
